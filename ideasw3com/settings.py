@@ -219,3 +219,5 @@ THUMBNAIL_PROCESSORS = (
     'easy_thumbnails.processors.filters',
     'easy_thumbnails.processors.background'
 )
+
+DJANGOCMS_GOOGLEMAP_API_KEY = 'AIzaSyBNPen36CWM23BpQuWdJfZMprsv6Ax2Ml4'
